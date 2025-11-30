@@ -59,12 +59,12 @@ const Home = () => {
       <div className='w-full flex flex-col'>
         <div className='flex fixed right-1 bottom-10 gap-1 z-3000'>
           <p className='text-gray-500 mt-2.5'>
-            <Link to="https://wa.me/917004109936" className='bg-slate-200 px-1 rounded-md py-1'>
+            <Link to="https://wa.me/1234567890" className='bg-slate-200 px-1 rounded-md py-1'>
                Message
             </Link>
           </p>
           <a
-            href='https://wa.me/917004109936'
+            href='https://wa.me/1234567890'
             target="_blank"
             rel="noopener noreferrer" 
             className='text-white p-1  bg-green-500 rounded-full cursor-pointer'>
